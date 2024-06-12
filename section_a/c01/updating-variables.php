@@ -1,7 +1,7 @@
 <?php 
 $name  = 'Guest';
-$name  = 'Ivy';
-$price = 5;
+$name  = 'João Pedro Vicente Pansiere';
+$price = 55;
 ?>
 <!DOCTYPE html>
 <html>
