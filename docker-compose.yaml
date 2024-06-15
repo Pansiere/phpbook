@@ -1,3 +1,4 @@
+#por enquanto vou deixar sem o MySQL e o phpmyadmin. Pois ainda n está sendo necessário :)
 version: '3.8'
 services:
   php_apache:
@@ -9,4 +10,4 @@ services:
     volumes:
       - ./:/var/www/html
     restart: always
-    
+
